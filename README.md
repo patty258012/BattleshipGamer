@@ -14,7 +14,7 @@ ReactJS, Node, VScode, Git, Github, HTML, CSS, Javascritp.
 ```
  $cd battleship
 ```
-2. Instala los paquete con el comando:
+2. Instala los paquetes con el comando:
 ```
 $ npm install
 ```
